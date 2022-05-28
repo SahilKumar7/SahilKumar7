@@ -37,7 +37,7 @@
 <br>
 <p align="center">
   <code><img title="C" height="48" src="images/c.svg"></code>
-  <code><img title="C++" height="32" src="images/cpp.svg"></code>
+  <code><img title="C++" height="48" src="images/cpp.svg"></code>
   <code><img title="C#" height="48" src="images/cSharp.svg"></code>
   <code><img title="Unity" height="48" src="images/unity3d.svg"></code>
   <code><img title=".NetCore" height="48" src="images/dotnetcore.svg"></code>
