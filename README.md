@@ -73,7 +73,7 @@
 <br><br><brv>
 <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilKumar7&title_color=628fdb&text_color=38bcad&icon_color=b389e5&bg_color=1a1b27&layout=compact&border_color=86868b&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilKumar7&title_color=628fdb&text_color=38bcad&icon_color=b389e5&bg_color=1a1b27&layout=compact&border_color=86868b&count_private=true" />
   </a>
 </div> 
 <br><br><br>
