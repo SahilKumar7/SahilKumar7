@@ -20,14 +20,14 @@
 
 <br>
 <div>
-  Hi, I'm Sahil, Research Assistant & Computer Engineer & Software Developer from India
+  Hi, I'm Sahil, a Software Developer @ Amdocs, India
   <br>
   <br>
-  🔬 I'm currently studying for a bachelor's degree in National Institute of Technology Kurukshetra Computer Engineering Department
+  🔬 I did my bachelor's degree in Computer Engineering from the National Institute of Technology Kurukshetra
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learning about new emerging trends in technology.
   <br>
-  📚 I’m currently learning how to build Time Table Generator with Django
+  📚 I’m currently learning Next.js, and AWS.
   <br>
   📫 How to reach me: <a href="mailto: sahil.kumar5729@gmail.com">sahil.kumar5729@gmail.com</a>
 </div>
