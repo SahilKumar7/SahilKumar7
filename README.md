@@ -1,108 +1,116 @@
-<h1 align="center">
-  Welcome to Sahil's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+<!-- Header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,35:628fdb,70:b389e5,100:38bcad&height=210&section=header&text=Sahil%20Kumar&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Exploring%20GenAI&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header" />
+</p>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=6198EE&center=true&lines=Full-stack+Web+Developer;Game+Designer+%26+Developer;Currently+exploring+XR"></a>
-</p>
-
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/sahil-kumar7"><img width="32px" alt="LinkedIn" title="LinkedIn" src="images/linkedin.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/beingmadao"><img width="32px" alt="Twitter" title="Twitter" src="images/twitter.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://sahil-kumar.itch.io/"><img width="37px" alt="Itch.io" title="Itch.io" src="images/itch-io.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
-<br>
-<div>
-  Hi, I'm Sahil, a Software Developer @ Amdocs, India
-  <br>
-  <br>
-  🔬 I did my bachelor's degree in Computer Engineering from the National Institute of Technology Kurukshetra
-  <br>
-  💻 I love writing code and learning about new emerging trends in technology.
-  <br>
-  📚 I’m currently learning Next.js, and AWS.
-  <br>
-  📫 How to reach me: <a href="mailto: sahil.kumar5729@gmail.com">sahil.kumar5729@gmail.com</a>
-</div>
-
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="C" height="48" src="images/c.svg"></code>
-  <code><img title="C++" height="48" src="images/cpp.svg"></code>
-  <code><img title="C#" height="48" src="images/cSharp.svg"></code>
-  <code><img title="Unity" height="48" src="images/unity3d.svg"></code>
-  <code><img title=".NetCore" height="48" src="images/dotnetcore.svg"></code>
-  <code><img title="Python" height="48" src="images/python-original.svg"></code>
-  <code><img title="Django" height="48" src="images/django.png"></code>
-  <code><img title="Flask" height="48" src="images/flask.png"></code>
-  <code><img title="HTML5" height="48" src="images/html5.svg"></code>
-  <code><img title="CSS" height="48" src="images/css.svg"></code>
-  <code><img title="SASS" height="48" src="images/sass.svg"></code>
-  <code><img title="Javascript" height="48" src="images/javascript.svg"></code>
-  <code><img title="JQuery" height="48" src="images/jquery-original.svg"></code>
-  <code><img title="JSON" height="48" src="images/json.svg"></code>
-  <code><img title="npm" height="48" src="images/npm.svg"></code>
-  <code><img title="React" height="48" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="48" src="images/redux.svg"></code>
-  <code><img title="Git" height="48" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="48" src="images/github.svg"></code>
-  <code><img title="MySQL" height="48" src="images/mysql.svg"></code>
-  <code><img title="PostgreSQL" height="48" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="48" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="48" src="images/visualstudio.svg"></code>
-</p>
-<hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilKumar7&theme=tokyonight"></a>
-<br><br><br>
-<div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=SahilKumar7&count_private=true&show_icons=true&theme=tokyonight"></a>
-</div>
-<br><br><brv>
-<div align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilKumar7&title_color=628fdb&text_color=38bcad&icon_color=b389e5&bg_color=1a1b27&layout=compact&border_color=86868b&count_private=true" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=628FDB&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Building+for+the+web;Exploring+GenAI+%26+AI%2FML;Game+dev+on+the+side" alt="Typing SVG" />
   </a>
-</div> 
-<br><br><br>
-<img src="https://activity-graph.herokuapp.com/graph?username=SahilKumar7&color=628fdb&line=38bcad&point=b389e5&bg_color=1a1b27&hide_border=true" width="100%"/>
+</p>
 
-<hr>
+<!-- Connect -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil-kumar7">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SahilKumar7&style=for-the-badge&color=628fdb&label=Profile+Views" alt="Profile views" />
+</p>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 
+<!-- About -->
+<h2 align="center">👋 About Me</h2>
 
+<p align="center">
+  Software Developer <b>@ Amdocs</b>, India &nbsp;·&nbsp; CS grad from <b>NIT Kurukshetra</b>
+</p>
 
-<!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li>⚙️ &nbsp;I build things for the web — clean, fast, and end-to-end.</li>
+  <li>🤖 &nbsp;Currently deep in <b>GenAI & AI/ML</b>, wiring up LLMs into real products.</li>
+  <li>🎮 &nbsp;Game dev on the side — I ship the occasional experiment on itch.io.</li>
+  <li>🌱 &nbsp;Always chasing the next thing worth learning.</li>
+  <li>📫 &nbsp;Reach me on <a href="https://www.linkedin.com/in/sahil-kumar7">LinkedIn</a></li>
+</ul>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Tech stack -->
+<h2 align="center">🛠️ Tech Stack</h2>
 
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs" alt="languages" />
+</p>
 
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
+<p align="center"><b>Web & Frameworks</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,fastapi" alt="web frameworks" />
+</p>
 
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
+<p align="center"><b>AI / GenAI</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+</p>
 
--->
+<p align="center"><b>Cloud & Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" alt="cloud tools" />
+</p>
+
+<p align="center"><b>Databases</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="databases" />
+</p>
+
+<p align="center"><b>Game Dev</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,godot,blender" alt="game dev" />
+</p>
+
+<br>
+
+<!-- Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahilKumar7&theme=tokyonight" alt="profile summary" />
+</p>
+
+<p align="center">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SahilKumar7&theme=tokyonight" alt="stats" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SahilKumar7&theme=tokyonight&utcOffset=5.5" alt="productive time" />
+</p>
+
+<p align="center">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SahilKumar7&theme=tokyonight" alt="top languages by repo" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SahilKumar7&theme=tokyonight" alt="most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilKumar7&bg_color=141321&color=628fdb&line=b389e5&point=38bcad&hide_border=true&area=true&area_color=628fdb" width="100%" alt="activity graph" />
+</p>
+
+<br>
+
+<!-- Snake contribution graph -->
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SahilKumar7/SahilKumar7/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SahilKumar7/SahilKumar7/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/SahilKumar7/SahilKumar7/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bcad,30:b389e5,70:628fdb,100:141321&height=120&section=footer" width="100%" alt="footer" />
+</p>
